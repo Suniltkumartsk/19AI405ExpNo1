@@ -30,7 +30,7 @@ Measure the performance parameters: For each cleaning performance incremented, f
 ### Name: SUNIL KUMAR T
 ### Register Number: 212223240164
 ```
-```
+```py
 import random
 import time
 class Thing:
